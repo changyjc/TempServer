@@ -5,7 +5,6 @@ public class TempServer {
 
 	/**
 	 * @param args
-	 * main method can be wright as Template Method
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
